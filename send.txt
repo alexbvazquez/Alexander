@@ -1,0 +1,9 @@
+Manual para cargar archivos a github
+1.- Ubicarse en la carpeta que se desea cargar a github
+2.- Escribir el comando git init 
+3.- Escribir el comando git add Nombre del archivo
+4.- commit -m "Comentario para modificación de la version"
+5. remote add dirección del git( entrar a la pagina y revisar")
+https://github.com/alexbvazquez/Alexander.git
+6.- git push origin master (escribir usuario y token) 
+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
